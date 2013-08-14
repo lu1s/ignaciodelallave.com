@@ -1,0 +1,26 @@
+html {
+  background: url(bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+html body {
+  margin: 0;
+  padding: 0;
+}
+html body .description {
+  text-align: center;
+  font-family: 'IM Fell Double Pica', serif;
+}
+html body .description h1 {
+  font-weight: 400;
+  text-shadow: 1px 1px 2px #cecece;
+  font-size: 8em;
+  color: white;
+}
+html body .description p {
+  font-weight: 400;
+  font-size: 3em;
+  color: white;
+}
