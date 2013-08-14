@@ -12,11 +12,11 @@
 	<body>
 		<div class="description">
 			<h1>Ignacio de la Llave</h1>
-			<p>Ignacio will bring to you the best coffee beans from Veracruz, Mexico.
-			<p>Every day you will find feshly and perfectly roasted coffee to bring to your table a clean, fruity and nutty cup of this marvelous beverage.</p>
+			<p>Ignacio will bring you the best coffee beans from Veracruz, Mexico.
+			<p>Every day you will find feshly and perfectly roasted coffee to have a clean, fruity and nutty cup of awesomeness. Stay tunned.</p>
 		</div>
 		<div id="bird">
-
+			
 		</div>
 	</body>
 </html>
