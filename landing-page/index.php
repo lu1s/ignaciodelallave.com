@@ -13,7 +13,7 @@
 		<div class="description">
 			<h1>Ignacio de la Llave</h1>
 			<p>Ignacio will bring you the best coffee beans from Veracruz, Mexico.
-			<p>Every day you will find fesh and perfectly roasted coffee to have a clean, fruity and nutty cup of awesomeness. Stay tunned.</p>
+			<p>Every day you will find fresh and perfectly roasted coffee to have a clean, fruity and nutty cup of awesomeness. Stay tunned.</p>
 		</div>
 		<div id="bird">
 			
